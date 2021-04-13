@@ -1,0 +1,5 @@
+Folder PATH listing
+Volume serial number is 000000D6 5E32:E7ED
+C:\USERS\VISA\KURSSIT
+Invalid path - \USERS\VISA\KURSSIT
+No subfolders exist
