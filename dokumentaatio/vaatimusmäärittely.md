@@ -12,6 +12,8 @@ Sovelluksella tulee olemaan vai yksi käyttäjärooli eli pelaaja
 **Käyttöliittymäluonnos**
 ------------------------
 
+!(Image)[Kayttoliittymaluonnos.jpg]
+
 **Perusversion tarjoama toiminnallisuus**
 -----------------------------------------
 
