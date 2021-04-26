@@ -1,5 +1,7 @@
 *Dokumentaatio*
 
+[Kuvat](https://github.com/alamvisa/ot-harjoitustyo/tree/master/dokumentaatio/Kuvat)
+
 [Tuntikirjanpito](https://github.com/alamvisa/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
 
 [Vaatimusmäärittely](https://github.com/alamvisa/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusm%C3%A4%C3%A4rittely.md)
